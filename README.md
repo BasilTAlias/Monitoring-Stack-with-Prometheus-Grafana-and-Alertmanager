@@ -19,7 +19,9 @@ This project sets up a full-featured monitoring solution using **Prometheus**, *
 
 ## 🖼️ Screenshots
 
-> 📍 Node Exporter Full Dashboard in Grafana  
+> 📍 Node Exporter Full Dashboard in Grafana
+
+
 ![Node Exporter Dashboard](screenshots/dashboard.png)
 
 ---
